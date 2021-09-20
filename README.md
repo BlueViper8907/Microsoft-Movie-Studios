@@ -39,9 +39,24 @@ Comparing production costs to gross costs to see if there is any trend between m
 
 # Visualization 
 
+- Studios Total Gross vs. Domestic
+
+![1](https://user-images.githubusercontent.com/63601020/134047487-6a175561-6226-4289-ad9f-39b4a3f255fb.jpg)
+
+- Domestic & Worldwide Gross Over Last Decade
+
+![2](https://user-images.githubusercontent.com/63601020/134047505-63b6b056-41a6-4445-b94b-2bfeff60c44b.jpg)
 
 
- 
-# Evaluation: 
+# Conclusion
+
+Conclusion
+- There is growth in the foreign market
+  - If we can appeal to all peoples and unifying things about our species, we can blow this out of the park
+- We should build off the back of success that has worked for others studios
+- Don't spend more than half of what you're expecting to make
+    - You get what you put in
+        - Can't expect to make a billion off of a shrimp budget
+        - Be realistic with your profit goals, don't overextend production budgets.
 
 
